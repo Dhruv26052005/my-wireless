@@ -26,7 +26,7 @@ class MainActivity : ComponentActivity() {
     ) { permissions ->
         val allGranted = permissions.values.all { it }
         if (allGranted) 
-            // All permissions granted, start the app
+            // All permissions granted, start the app dhruvpatel
         } else {
             // Handle permission denial
         }
