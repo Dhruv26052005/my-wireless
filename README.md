@@ -1,4 +1,4 @@
-# Hybrid Mesh Chat App
+# Hybrid Mesh Chat App D
 
 A powerful Android chat application that combines **Wi-Fi Direct** and **Bluetooth** to create a robust mesh network for offline communication. This app enables users to send messages even when there's no internet connection by routing messages through nearby devices.
 
